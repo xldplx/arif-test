@@ -1,0 +1,7 @@
+git init = to start doing git commands
+
+git status = to check all the files that are going to be "pushed"
+
+git add (./[filename]) = to add all the files into the tracking area
+
+git commit -m "MESSAGE" =
